@@ -1,0 +1,48 @@
+/* Global CSS */
+/* https://react-icons.github.io/react-icons/ */
+
+*:not(svg *){
+    color:#383733!important
+}
+
+/* BUTTON */
+.button {
+    color: #383733!important;
+    background-color: #ffffff00!important;
+    border-color: #383733!important;
+    /* border-radius: 1rem; */
+    width: 100%;
+   }
+   
+   .button:hover {
+    color: #fff!important;
+   background-color: #2f2e2b!important;
+     border-color: #383733!important;
+   }
+   
+   .button:focus,
+   .button.focus {
+    box-shadow: 0 0 0 .2rem rgba(24, 24, 24, 0.5)!important;
+   }
+   
+   .button.disabled,
+   .button:disabled {
+    color: #C0C0C0!important;
+    background-color: #A52C23!important;
+     border-color: #383733!important;
+   }
+   
+   .button:not(:disabled):not(.disabled):active,
+   .button:not(:disabled):not(.disabled).active,
+   .show>.button.dropdown-toggle {
+    color: #fff!important;
+    background-color: #2f2e2b!important;
+    border-color: #2f2e2b!important;
+   }
+   
+   .button:not(:disabled):not(.disabled):active:focus,
+   .button:not(:disabled):not(.disabled).active:focus,
+   .show>.button.dropdown-toggle:focus {
+    box-shadow: 0 0 0 .2rem rgba(24, 24, 24, 0.5)!important;
+   }
+  

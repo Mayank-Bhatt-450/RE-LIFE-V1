@@ -1,0 +1,26 @@
+.balance{
+    position: fixed;
+    /* position: fixed; */
+    /* top: 10%; */
+    bottom: 0%;
+    LEFT: 0%;
+    width: 100%;
+    Z-INDEX: 100;
+    font-weight: 900;
+    color:#FF8027!important;
+     border-radius: 10px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 0px;
+     background-color: #414141cf;
+     text-align: center;
+}
+.button{
+    /* background-color: #414141cf; */
+    margin-left: 5%;
+    margin-right: 5%;
+    /* text-align: center; */
+    /* border-radius: 10px; */
+    margin: 10px;
+    
+}

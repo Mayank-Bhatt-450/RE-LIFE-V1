@@ -1,0 +1,23 @@
+.taskCard {
+    transition: all 0.3s ease;
+}
+
+.taskCard:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.dropdownToggle::after {
+    display: none;
+}
+
+.dropdownToggle {
+    padding: 0.25rem 0.5rem;
+}
+
+.tabBadge {
+    margin-left: 5px;
+    vertical-align: top;
+    color:aliceblue;
+    background-color: aqua!important ;
+}

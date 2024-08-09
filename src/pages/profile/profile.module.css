@@ -1,0 +1,82 @@
+.container{
+    /* height: auto; */
+    /* height: 85vh; */
+}
+.coins{
+/* /* font-size: large; */
+font-weight:bolder;
+}
+.text{
+    font-size: large;
+    font-weight:900;
+}
+.card{
+    width: 40%;
+    border-top: 0px!important;
+    border-width: 3px;
+    border-style: solid;
+    height:100%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #E8E9E9 !important;
+    padding: 1rem;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.progress_bar{
+    color: #38373300!important;
+}
+.profile_container{
+    position: relative;
+}
+.profile_container_button{
+    position: absolute;
+    bottom: 0%;
+    right:20%;
+    background: #FF8027;
+    /* color:#383733 !important;
+    background-color:#FF8027 !important; */
+    border-radius: 5rem;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
+.profile_button{
+    width: 30px;
+    height: 30px;
+}
+@media (max-width:992px){
+    .card{
+        width: 100%;
+        border-top: 0px!important;
+        border-width: 3px;
+        border-style: solid;
+        height:100vh;
+        margin-left: auto;
+        margin-right: auto;
+        color: #E8E9E9 !important;
+        padding: 1rem;
+    }
+    .image{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+    }
+    .profile_container_button{
+        position: absolute;
+        bottom: -1%;
+        right:11%;
+        background: #FF8027;
+        /* color:#383733 !important;
+        background-color:#FF8027 !important; */
+        border-radius: 5rem;
+        width: 50px;
+        height: 50px;
+        text-align: center;
+    }
+}

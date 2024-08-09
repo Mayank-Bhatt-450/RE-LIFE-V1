@@ -1,0 +1,11 @@
+/* src/App.css */
+
+  #editorjs {
+    /* border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    min-height: 300px; */
+  }
+.codex-editor__redactor{
+  padding-bottom:100px!important;
+}

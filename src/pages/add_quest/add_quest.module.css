@@ -1,0 +1,10 @@
+.task{
+text-align: start;
+width:50%;
+font-weight: 900;
+}
+.level{
+    text-align: end;
+    width:50%;
+    font-weight: 900;
+}
