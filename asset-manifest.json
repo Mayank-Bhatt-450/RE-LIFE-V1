@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/RE-LIFE-V1/static/css/main.ff6d10dc.css",
-    "main.js": "/RE-LIFE-V1/static/js/main.daf1bef4.js",
+    "main.js": "/RE-LIFE-V1/static/js/main.28653b39.js",
     "static/media/sample_profile.png": "/RE-LIFE-V1/static/media/sample_profile.d4e062a385aa76e54fcf.png",
     "index.html": "/RE-LIFE-V1/index.html",
     "main.ff6d10dc.css.map": "/RE-LIFE-V1/static/css/main.ff6d10dc.css.map",
-    "main.daf1bef4.js.map": "/RE-LIFE-V1/static/js/main.daf1bef4.js.map"
+    "main.28653b39.js.map": "/RE-LIFE-V1/static/js/main.28653b39.js.map"
   },
   "entrypoints": [
     "static/css/main.ff6d10dc.css",
-    "static/js/main.daf1bef4.js"
+    "static/js/main.28653b39.js"
   ]
 }
